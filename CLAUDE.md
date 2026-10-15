@@ -69,7 +69,7 @@ Challenger Deep (submersible) · `atlantis` Plato's legend.
   found, selftest, tour }`. Before pushing a content change, run `?selftest` (every site loads,
   every data.js find is placed, no errors) and an aim audit (for each find instance, place the
   diver in front, aim with `pickFind(aimRay(null))` and check the right id comes back). Both
-  passed for all 85 finds on 2026-10-14.
+  passed for all 84 finds on 2026-10-14.
 - Synthetic keys must go through `Input.dispatchKeyEvent`; the help dialog shows once per browser
   profile (`uw3d.helped`).
 
